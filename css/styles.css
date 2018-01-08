@@ -204,14 +204,6 @@ hr {
   background-color: #516E8C;
 }
 
-.button.button--download .button__icon {
-  background: url('../img/download.svg') no-repeat transparent;
-}
-
-.button.button--github .button__icon {
-  background: url('../img/github.svg') no-repeat transparent;
-}
-
 .button.button--large {
   padding: 30px 50px;
 }
@@ -250,7 +242,7 @@ hr {
 
 .header {
   height: 100%;
-  background: url('../img/background.jpg') bottom no-repeat transparent;
+  background: url('../img/background3.jpg') bottom no-repeat transparent;
   background-size: cover;
 }
 
