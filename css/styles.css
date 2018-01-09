@@ -73,7 +73,8 @@ h1 {
   margin-bottom: 30px;
   font-size: 50px;
   font-weight: 300;
-  color: crimson;
+  /*color: crimson;*/
+  color: orangered;
 }
 
 h2 {
@@ -242,7 +243,7 @@ hr {
 
 .header {
   height: 100%;
-  background: url('../img/background3.jpg') bottom no-repeat transparent;
+  background: url('../img/purple_wave.gif') bottom no-repeat transparent;
   background-size: cover;
 }
 
@@ -318,6 +319,7 @@ hr {
   top: 0;
   left: 0;
   z-index: 0;
+  opacity: 0.46;
 }
 
 
